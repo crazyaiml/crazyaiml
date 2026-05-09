@@ -51,7 +51,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 [`Smart-SDLC`](https://github.com/supermlorg/sumart-sdlc)
+### 🔷 [`Smart-SDLC`](https://github.com/supermldev/smart-sdlc) 
 **Agentic Development Framework**
 
 AI-driven SDLC that adapts to your company's methodology — not a generic copilot, a bespoke engineering partner that works within your compliance and delivery norms.
