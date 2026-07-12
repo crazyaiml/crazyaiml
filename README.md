@@ -92,6 +92,28 @@ Demonstrates how structured ontologies make LLMs dramatically more precise on co
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 [`VAR`](https://github.com/crazyaiml/VAR)
+**Autonomous Vulnerability Remediation**
+
+Multi-agent platform that analyzes, patches, validates, and raises pull requests for security vulnerabilities across your repositories — no human triage bottleneck.
+
+`agentic` &nbsp;`appsec` &nbsp;`multi-agent` &nbsp;`devsecops`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 [`attribute-knowledge-rag`](https://github.com/crazyaiml/attribute-knowledge-rag)
+**Enterprise Metadata RAG**
+
+Reference architecture turning enterprise attribute metadata into an AI-searchable knowledge layer for governed, context-aware retrieval.
+
+`rag` &nbsp;`metadata` &nbsp;`enterprise-ai` &nbsp;`knowledge-layer`
+
+</td>
+</tr>
 </table>
 
 ---
